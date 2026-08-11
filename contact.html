@@ -14,42 +14,42 @@
 <h2><u>Input your info here:</u></h2>
 <form method="post" action="welcome.php">
 <label>Full Name:</label>
-<input type="text">
+<input type="text" name="fullname">
 <br><br>
 <label>Email:</label>
-<input required type="email">
+<input required type="email" name="email">
 <br><br>
 <label>Gender:</label>
-<input type="radio" name="gender">
+<input type="radio" name="gender" value="male">
 Male
-<input type="radio" name="gender">
+<input type="radio" name="gender" value="female">
 Female
 <br><br>
 <label>Interests:</label>
-<input type="checkbox">
+<input type="checkbox" name="html">
 HTML
-<input type="checkbox">
+<input type="checkbox" name="cosplaying">
 Cosplaying
-<input type="checkbox">
+<input type="checkbox" name="badminton">
 Badminton
 <br><br>
 <label>Purpose of Visit:</label>
 <select>
-<option>General Inquiry</option>
-<option>Feedback</option>
-<option>Collaboration</option>
-<option>School Project</option>
+<option name="generalinquiry">General Inquiry</option>
+<option name="feedback">Feedback</option>
+<option name="collaboration">Collaboration</option>
+<option name="schoolproject">School Project</option>
 </select>
 <br><br>
 <label>Favorite Color</label>
-<input type="color" width="300">
+<input type="color" width="300" name="color">
 <br><br>
 <label>Favorite Number</label>
-<input type="number">
+<input type="number" name="number">
 <br><br>
 <label>Comments:</label>
-<textarea rows="5" cols="30"></textarea>
+<textarea rows="5" cols="30" name="comments"></textarea>
 <br><br>
-<input type="submit">
-<input type="reset">
+<input type="submit" name="submit">
+<input type="reset" name="reset">
 </form>
