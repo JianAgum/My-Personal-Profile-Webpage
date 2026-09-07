@@ -8,3 +8,8 @@ body {
 h1 {
   color: white;
 }
+
+hr {
+  border: none;
+  border-top: 2px dotted white;
+}
