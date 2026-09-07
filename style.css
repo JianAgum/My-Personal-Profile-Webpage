@@ -1,5 +1,5 @@
 body {
-  text-align: justify;
+  text-align: center;
   background-color: black;
   color: white;
 }
@@ -15,6 +15,7 @@ hr {
 a {
   color: gray;
   font-weight: bold;
+  text-align: center
 }
 
 .gen-div {
