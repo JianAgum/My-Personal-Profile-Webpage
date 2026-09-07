@@ -4,8 +4,9 @@ body {
   color: white;
 }
 
-h1 {
+.gen-h {
   text-align: center;
+  font-weight: bold;
 }
 
 hr {
