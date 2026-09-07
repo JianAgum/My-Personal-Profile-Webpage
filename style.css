@@ -12,6 +12,10 @@ hr {
   color: white;
 }
 
+nav {
+  text-align:center;
+}
+
 a {
   color: gray;
   font-weight: bold;
