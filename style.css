@@ -29,6 +29,9 @@ a:hover {
   font-weight: bold;
 }
 
+nav {
+  text-align: center;
+}
 a:active {
   color: grey;
   font-weight: bold;
