@@ -1,5 +1,4 @@
 body {
-  font-family: Helvetica, sans-serif;
   text-align: justify;
   background-color: black;
   color: white;
@@ -10,78 +9,32 @@ h1 {
 }
 
 hr {
-  border: none;
-  border-top: 4px dotted white;
-  margin-left: 20%;
-  margin-right: 20%;
-}
-
-nav {
-  text-align:center;
-}
-
-a:link {
-  color: lightblue;
-  font-weight: bold;
-}
-
-a:visited {
-  color: blue;
-  font-weight: bold;
-}
-
-a:hover {
   color: white;
-  font-weight: bold;
 }
 
-a:active {
-  color: grey;
+a {
+  color: gray;
   font-weight: bold;
 }
 
 #contact-page {
   background-color: white;
-  font-family: "Times New Roman", Times, serif;
   color: black;
+}
+
+#contact-form {
+  text-align: center;
 }
 
 .contact-h {
   color: mediumspringgreen;
 }
 
-.contact-hr {
-  border-top: 4px dotted black;
-}
-
-.contact-a:link {
+.contact-a {
   color: green;
   font-weight: bold;
 }
 
-.contact-a:visited {
-  color: tomato;
-  font-weight: bold;
-}
-
-.contact-a:hover {
-  color: lightgreen;
-  font-weight: bold;
-}
-
-.contact-a:active {
-  color: white;
-  font-weight: bold;
-}
-
-#contact-form {
-  display: flex;
-  justify-content: center;
-  border: 2px solid: black;
-  padding: 10px;
-  margin-bottom: 30px;
-}
-
-.contact-input {
-  margin-bottom: -30px;
+.contact-hr {
+  color: mediumspringgreen;
 }
