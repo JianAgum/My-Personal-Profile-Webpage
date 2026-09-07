@@ -29,9 +29,10 @@ a:hover {
   font-weight: bold;
 }
 
-nav {
+div {
   text-align: center;
 }
+
 a:active {
   color: grey;
   font-weight: bold;
