@@ -29,11 +29,11 @@ a:hover {
   font-weight: bold;
 }
 
-div {
-  text-align: center;
-}
-
 a:active {
   color: grey;
   font-weight: bold;
+}
+
+div {
+  text-align: center;
 }
