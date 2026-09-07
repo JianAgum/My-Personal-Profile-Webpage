@@ -6,13 +6,18 @@ body {
 }
 
 h1 {
-  color: white;
   text-align: center;
 }
 
 hr {
-    border: none;
-    border-top: 4px dotted white;
+  border: none;
+  border-top: 4px dotted white;
+  margin-left: 80%;
+  margin-right: 80%;
+}
+
+nav {
+  text-align:center;
 }
 
 a:link {
@@ -35,6 +40,36 @@ a:active {
   font-weight: bold;
 }
 
-div {
-  text-align: center;
+#contact-page {
+  background-color: white;
+  font-family: "Times New Roman", Times, serif;
+  color: black;
+}
+
+.contact-h {
+  color: mediumspringgreen;
+}
+
+.contact-hr {
+  border-top: 4px dotted black;
+}
+
+.contact-a:link {
+  color: green;
+  font-weight: bold;
+}
+
+.contact-a:visited {
+  color: tomato;
+  font-weight: bold;
+}
+
+.contact-a:hover {
+  color: lightgreen;
+  font-weight: bold;
+}
+
+.contact-a:active {
+  color: white;
+  font-weight: bold;
 }
