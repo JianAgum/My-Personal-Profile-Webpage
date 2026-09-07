@@ -13,3 +13,23 @@ hr {
     border: none;
     border-top: 4px dotted white;
 }
+
+a:link {
+  color: lightblue;
+  font-weight: bold;
+}
+
+a:visited {
+  color: blue;
+  font-weight: bold;
+}
+
+a:hover {
+  color: white;
+  font-weight: bold;
+}
+
+a:active {
+  color: grey;
+  font-weight: bold;
+}
