@@ -27,8 +27,8 @@ div {
 
 /* sub code */
 #contact-page {
-  background-color: #354F52;
-  color: #CAD2C5;
+  background-color: #C2948A;
+  color: #28536B;
 }
 
 #contact-form {
@@ -36,24 +36,24 @@ div {
 }
 
 .contact-h {
-  color: #84A98C;
+  color: #28536B;
 }
 
 .contact-h1 {
-  background: linear-gradient(to right, #B7BF9E, #A0AC8B);
+  background: linear-gradient(to right, #A09EA4, #8FA3B1);
 }
 
 .contact-a {
-  color: #52796F;
+  color: #7EA8BE;
   font-weight: bold;
 }
 
 .contact-hr {
-  color: #52796F;
+  color: #28536B;
 }
 
 #thanks-page {
-  background-color: #354F52;
-  color: #CAD2C5;
+  background-color: #C2948A;
+  color: #28536B;
 }
 /* sub code end */
