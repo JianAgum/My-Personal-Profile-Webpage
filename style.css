@@ -9,26 +9,17 @@ hr {
   color: #E4E6C3;
 }
 
-nav {
-  text-align: center;
-  
-}
-
 a {
   color: #F7F7F2;
   font-weight: bold;
   text-align: center
 }
 
-div {
-  text-align: center;
-} 
-
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
 
-h1 {
+div {
   background-color: linear-gradient(to right, #B7BF9E, #A0AC8B);
 }
 /* main code end*/
@@ -46,6 +37,10 @@ h1 {
 
 .contact-h {
   color: #84A98C;
+}
+
+.contact-h1 {
+  background-color: linear-gradient(to right, #B7BF9E, #A0AC8B);
 }
 
 .contact-a {
