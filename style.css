@@ -1,17 +1,13 @@
 /* main code */
 body {
+  background-color: #001011;
+  color: #ffffff;
   text-align: center;
-  background-color: #899878;
-  color: #E4E6C3;
   font-family: Helvetica, sans-serif;
 }
 
-hr {
-  color: #E4E6C3;
-}
-
 a {
-  color: #F7F7F2;
+  color: #3AAFB9;
   font-weight: bold;
   font-style: italic;
 }
