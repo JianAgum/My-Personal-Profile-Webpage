@@ -17,7 +17,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 div {
-  background-color: #3AAFB9;
+  background: linear-gradient(to right, #052528, #22757C);
 }
 
 audio {
@@ -27,7 +27,27 @@ audio {
 
 
 /* sub code */
-.h1-gradient {
-  background: linear-gradient(to right, #052528, #22757C);
+#a-index {
+  color: red;
+}
+
+#a-about {
+  color: orange;
+}
+
+#a-hobbies {
+  color: yellow;
+}
+
+#a-favorites {
+  color: green;
+}
+
+#a-goals {
+  color: blue;
+}
+
+#a-contact {
+  color: violet;
 }
 /* sub code end */
