@@ -31,34 +31,5 @@ audio {
 
 
 /* sub code */
-#contact-page {
-  background-color: #C2948A;
-  color: #28536B;
-}
 
-#contact-form {
-  text-align: center;
-}
-
-.contact-h {
-  color: #28536B;
-}
-
-.contact-h1 {
-  background: linear-gradient(to right, #B7BF9E, #A0AC8B);
-}
-
-.contact-a {
-  color: #DCF763;
-  font-weight: bold;
-}
-
-.contact-hr {
-  color: #28536B;
-}
-
-#thanks-page {
-  background-color: #C2948A;
-  color: #28536B;
-}
 /* sub code end */
