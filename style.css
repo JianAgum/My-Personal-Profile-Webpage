@@ -17,7 +17,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 div {
-  background: linear-gradient(to right, #052528, #22757C);
+  background-color: #3AAFB9;
 }
 
 audio {
@@ -27,5 +27,7 @@ audio {
 
 
 /* sub code */
-
+.h1-gradient {
+  background: linear-gradient(to right, #052528, #22757C);
+}
 /* sub code end */
