@@ -29,23 +29,23 @@ table {
 
 /* sub code */
 
-/* a-index */
-  #a-index:focus {
-    color: #ff0000;
-  }
+  /* a-index */
+    #a-index:focus {
+      color: #ff0000;
+    }
 
-  #a-index:visited {
-    color: #00ffff;
-  }
+    #a-index:visited {
+      color: #00ffff;
+    }
 
-  #a-index:hover {
+    #a-index:hover {
     color: #0000ff;
-  }
+    }
 
-  #a-index:active {
-    color: #ff00ff;
-  }
-/* a-index end */
+    #a-index:active {
+      color: #ff00ff;
+    }
+  /* a-index end */
 
 #a-about {
   color: orange;
