@@ -28,9 +28,24 @@ table {
 
 
 /* sub code */
-#a-index {
-  color: red;
-}
+
+/* a-index */
+  #a-index {
+    color: #ff0000;
+  }
+
+  #a-index:visited {
+    color: #00ffff;
+  }
+
+  #a-index:hover {
+    color: #0000ff;
+  }
+
+  #a-index:active {
+    color: #ff00ff;
+  }
+/* a-index end */
 
 #a-about {
   color: orange;
