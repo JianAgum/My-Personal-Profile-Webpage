@@ -35,11 +35,11 @@ table {
     }
 
     #a-index:visited {
-      color: #00ffff;
+      color: #000000;
     }
 
     #a-index:hover {
-    color: #0000ff;
+      color: #0000ff;
     }
 
     #a-index:active {
@@ -47,23 +47,95 @@ table {
     }
   /* a-index end */
 
-#a-about {
-  color: orange;
-}
+  /* a-about */
+    #a-about:link {
+      color: #ffa500;
+    }
 
-#a-hobbies {
-  color: yellow;
-}
+    #a-about:visited {
+      color: #000000;
+    }
 
-#a-favorites {
-  color: green;
-}
+    #a-about:hover {
+      color: #005AFF;
+    }
 
-#a-goals {
-  color: blue;
-}
+    #a-about:active {
+      color: #c9a0dc;
+    }
+  /* a-about end */
 
-#a-contact {
-  color: violet;
-}
+  /* a-hobbies */
+    #a-hobbies:link {
+      color: #ffff00;
+    }
+
+    #a-hobbies:visited {
+      color: #000000;
+    }
+
+    #a-hobbies:hover {
+      color: #9367c1;
+    }
+
+    #a-hobbies:active {
+      color: #800080;
+    }
+  /* a-hobbies end */
+
+  /* a-favorite */
+    #a-favorite:link {
+      color: #00ff00;
+    }
+
+    #a-favorite:visited {
+      color: #000000;
+    }
+
+    #a-favorite:hover {
+      color: #ff5fff;
+    }
+
+    #a-favorite:active {
+      color: #cc338b;
+    }
+  /* a-hobbies end */
+
+  /* a-goals */
+    #a-favorite:link {
+      color: #0000ff;
+    }
+
+    #a-favorite:visited {
+      color: #000000;
+    }
+
+    #a-favorite:hover {
+      color: #6cace4;
+    }
+
+    #a-favorite:active {
+      color: #cc338b;
+    }
+  /* a-goals end */
+
+
+  /* a-contact */
+    #a-contact:link {
+      color: #7F00FF;
+    }
+
+    #a-contact:visited {
+      color: #000000;
+    }
+
+    #a-contact:hover {
+      color: #ffff00;
+    }
+
+    #a-contact:active {
+      color: #fbe790;
+    }
+  /* a-goals end */
+
 /* sub code end */
