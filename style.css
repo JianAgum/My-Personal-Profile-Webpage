@@ -35,7 +35,7 @@ table {
     }
 
     #a-index:visited {
-      color: #000000;
+      color: #ffffff;
     }
 
     #a-index:hover {
@@ -71,7 +71,7 @@ table {
     }
 
     #a-hobbies:visited {
-      color: #000000;
+      color: #ffffff;
     }
 
     #a-hobbies:hover {
@@ -83,38 +83,38 @@ table {
     }
   /* a-hobbies end */
 
-  /* a-favorite */
-    #a-favorite:link {
+  /* a-favorites */
+    #a-favorites:link {
       color: #00ff00;
     }
 
-    #a-favorite:visited {
-      color: #000000;
+    #a-favorites:visited {
+      color: #ffffff;
     }
 
-    #a-favorite:hover {
+    #a-favorites:hover {
       color: #ff5fff;
     }
 
-    #a-favorite:active {
+    #a-favorites:active {
       color: #cc338b;
     }
   /* a-hobbies end */
 
   /* a-goals */
-    #a-favorite:link {
+    #a-goals:link {
       color: #0000ff;
     }
 
-    #a-favorite:visited {
-      color: #000000;
+    #a-goals:visited {
+      color: #ffffff;
     }
 
-    #a-favorite:hover {
+    #a-goals:hover {
       color: #6cace4;
     }
 
-    #a-favorite:active {
+    #a-goals:active {
       color: #cc338b;
     }
   /* a-goals end */
@@ -126,7 +126,7 @@ table {
     }
 
     #a-contact:visited {
-      color: #000000;
+      color: #ffffff;
     }
 
     #a-contact:hover {
