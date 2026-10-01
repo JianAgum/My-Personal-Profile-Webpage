@@ -25,6 +25,16 @@ table {
   opacity: 0.9;
   margin: 0 auto;
 }
+
+ul {
+  margin: 0 auto;
+  width: fit-content;
+}
+
+ol {
+  margin: 0 auto;
+  width: fit-content;
+}
 /* main code end*/
 
 
