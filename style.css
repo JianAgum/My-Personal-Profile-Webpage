@@ -30,7 +30,7 @@ table {
 /* sub code */
 
   /* a-index */
-    #a-index:focus {
+    #a-index:link {
       color: #ff0000;
     }
 
