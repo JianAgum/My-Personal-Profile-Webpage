@@ -161,7 +161,7 @@ ol {
     float: left;
     background: none;
     margin-left: -10%;
-    min-width: none;
+    min-width: 0;
     }
 
   #img_laurel {
@@ -201,5 +201,6 @@ ol {
 
   .div_h1 {
     width: fit-content;
+    min-width: 0;
   }
 /* sub code end */
