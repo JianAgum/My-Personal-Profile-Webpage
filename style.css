@@ -20,6 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 div {
   background: linear-gradient(to right, #052528, #22757C);
   width: fit-content;
+  margin: 0 auto;
 }
 
 table {
@@ -152,22 +153,21 @@ ol {
     }
   /* a-goals end */
 
-  #div_profile {
+  #div_profile_picture {
     position: relative;
-    width: 15%;
+    width: 20%;
     height: 15%;
-    margin: auto auto auto 10%;
     float: left;
     background: none;
+    margin-left: -10%;
     }
 
   #img_laurel {
     width: 150%;
-    margin: auto;
     position: absolute;
     height: 130%;
     top: 200%;
-    left: 0%;
+    left: 22.5%;
     z-index: 2;
     }
 
@@ -177,5 +177,20 @@ ol {
     z-index: 1;
     position: absolute;
     }
+
+  #div_intro_paragraph {
+    text-align: left;
+    margin-left: 25%;
+    padding: 10px 20px;
+    width: fit-content;
+    font-size: 25px;
+    max-width: 40%;
+  }
+
+  #div_profile {
+    margin-top: 4%;
+    background: none;
+    margin-left: 25%;
+  }
   
 /* sub code end */
