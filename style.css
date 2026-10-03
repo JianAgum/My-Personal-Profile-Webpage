@@ -151,4 +151,29 @@ ol {
     }
   /* a-goals end */
 
+  #div_profile {
+    position: relative;
+    width: 15%;
+    height: 15%;
+    margin: auto auto auto 10%;
+    float: left;
+    }
+
+  #img_laurel {
+    width: 150%;
+    margin: auto;
+    position: absolute;
+    height: 130%;
+    top: 200%;
+    left: -25%;
+    z-index: 2;
+    }
+
+  #img_pfp {
+    width: 100%;
+    height: 300%;
+    z-index: 1;
+    position: absolute;
+    }
+  
 /* sub code end */
