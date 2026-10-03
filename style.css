@@ -203,4 +203,8 @@ ol {
     width: fit-content;
     min-width: 0;
   }
+
+  .div_nav {
+    width: 100%;
+  }
 /* sub code end */
