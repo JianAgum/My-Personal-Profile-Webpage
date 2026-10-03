@@ -40,6 +40,7 @@ ol {
   margin: 0 auto;
   width: fit-content;
   text-align: left;
+  list-style-type: upper-roman;
 }
 /* main code end*/
 
