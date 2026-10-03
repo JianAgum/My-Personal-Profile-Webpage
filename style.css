@@ -21,6 +21,7 @@ div {
   background: linear-gradient(to right, #052528, #22757C);
   width: fit-content;
   margin: 0 auto;
+  min-width: 50%;
 }
 
 table {
@@ -192,5 +193,12 @@ ol {
     background: none;
     margin-left: 25%;
   }
-  
+
+  #div_google_maps {
+    max-width: 60%;
+  }
+
+  .div_h1 {
+    width: fit-content;
+  }
 /* sub code end */
