@@ -211,4 +211,13 @@ ol {
     position: sticky;
     top: 0px;
   }
+
+  .div_input:hover::before {
+  content: "✔️";
+  }
+
+ .div_input {
+  background: none;
+  display: inline;
+  }
 /* sub code end */
