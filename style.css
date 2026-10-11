@@ -237,4 +237,10 @@ ol {
     display: block;
     margin: 0 15px;
   }
+
+  .gallery-item {
+    background: none;
+    display: inline;
+    min-width: 0px;
+  }
 /* sub code end */
