@@ -213,11 +213,28 @@ ol {
   }
 
   .div_input:hover::before {
-  content: "✔️";
+    content: "✔️";
   }
 
- .div_input {
-  background: none;
-  display: inline;
+  .div_input {
+    background: none;
+    display: inline;
+  }
+
+  .gallery {
+    display: inline-flex;
+    margin: 0 auto;
+    border: dotted white 1px;
+    padding: 1%;
+    background-color: #1D6065;
+  }
+
+  .gallery-img {
+    object-fit: cover;
+    border: solid black 1px;
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 15px;
   }
 /* sub code end */
