@@ -147,7 +147,7 @@ ol {
     min-width: 0;
     }
 
-  #img_laurel {
+  #img_laurel_desktop {
     width: 150%;
     position: absolute;
     top: 200%;
@@ -156,7 +156,7 @@ ol {
     margin-top: 70%;
     }
 
-  #img_pfp {
+  #img_pfp_desktop {
     width: 100%;
     z-index: 10;
     position: absolute;
