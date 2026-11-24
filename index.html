@@ -27,10 +27,16 @@
     	<hr>
 	</div>
 
-	  <div id="div_profile">
+	<div id="div_profile">
 	  <div id="div_profile_picture">
-    	  <img src="Cosplay.webp" alt="A picture of me in my cosplay as the Pinky Apprentice." id="img_pfp">
-		  <img src="laurel.webp" alt="laurel" id="img_laurel">
+    	<picture>
+    		<source media="(max-width: 768px)" srcset="Cosplay.webp">
+    		<img src="Cosplay.JPEG" alt="Agum in cosplay">
+		</picture>
+		<picture>
+    		<source media="(max-width: 768px)" srcset="laurel.webp">
+    		<img src="laurel.png" alt="laurel">
+		</picture>
 	  </div>
 	
     <div id="div_intro_paragraph">
